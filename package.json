@@ -1,6 +1,9 @@
 {
   "name": "game-tracker",
   "version": "1.0.0",
+  "engines": {
+    "node": "13.0.1"
+  },
   "description": "Stat tracker app for games",
   "main": "server.js",
   "scripts": {
