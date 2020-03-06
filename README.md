@@ -2,6 +2,10 @@
 
 [Link](https://apex-legends-stat-tracker-app.herokuapp.com/)
 
+![Home View](https://github.com/apcurran/apex-legends-tracker/tree/master/public/img/apex-home.jpg)
+
+![Profile Card View](https://github.com/apcurran/apex-legends-tracker/tree/master/public/img/apex-profile-card.png)
+
 ## Features:
 
 NOTE: I do not own the rights to Apex Legends.  All rights belong to EA and Respawn Entertainment.
