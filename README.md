@@ -2,9 +2,9 @@
 
 [Link](https://apex-legends-stat-tracker-app.herokuapp.com/)
 
-![Home View](https://github.com/apcurran/apex-legends-tracker/tree/master/public/img/apex-home.jpg)
+![Home View](./public/img/apex-home.jpg)
 
-![Profile Card View](https://github.com/apcurran/apex-legends-tracker/tree/master/public/img/apex-profile-card.png)
+![Profile Card View](./public/img/apex-profile-card.png)
 
 ## Features:
 
