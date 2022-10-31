@@ -1,7 +1,5 @@
 # Apex Legends Stat Tracker App
 
-[Link](https://apex-legends-stat-tracker-app.herokuapp.com/)
-
 ![Home View](./public/img/apex-home.jpg)
 
 ![Profile Card View](./public/img/apex-profile-card.png)
